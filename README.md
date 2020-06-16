@@ -6,7 +6,7 @@ Includes:
 - Bubble Sort
 - Selection Sort
 - Merge Sort
-- Quick SOrt
+- Quick Sort
 - Heap Sort
 - Counting Sort
 - Bucket Sort
